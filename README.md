@@ -10,3 +10,7 @@ Currently, two official plugins are available:
 # setup project : npm install
 
 # run project : npm run dev
+
+# Login credentials
+# User: user1
+# Password: password1
